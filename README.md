@@ -1,7 +1,3 @@
-Of course\! A good README is essential for showcasing your project on GitHub. Based on your code, here is a comprehensive `README.md` file. You can copy and paste this directly into a new file named `README.md` in your GitHub repository.
-
------
-
 # Bank Customer Churn Prediction
 
 ## 📖 Overview
